@@ -10,7 +10,7 @@ import android.widget.Toast;
 import com.baidu.lbsapi.BMapManager;
 import com.baidu.lbsapi.panoramaview.PanoramaView;
 import com.baidu.mapapi.map.BaiduMap;
-
+//百度全景图
 public class PanoramaActivity extends AppCompatActivity implements View.OnClickListener {
 
     private static final String TAG = "MainActivity";
